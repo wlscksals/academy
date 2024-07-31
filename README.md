@@ -3,4 +3,23 @@
 |코딩| 코딩|
 |-| -|
 |표만들기| 머야|
-https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjFH&x_csa=%7B%22theme%22%3A%22pet%22%2C%20%22pkid%22%3A%22605%22%2C%20%22toAll%22%3A%2218828281%22%7D&pkid=605&os=11846116&qvt=0&query=%EB%9E%98%EB%B8%8C%EB%9D%BC%EB%8F%84%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84%20%ED%8F%AC%ED%86%A0
+![search pstatic](https://github.com/user-attachments/assets/55b28d64-dd1c-404d-ac75-efb0bd4c80eb)
+
+
+제목<br>
+제목
+제목
+
+소주제
+---
+
+
+```
+ㅇㄹㅇㄹㄴ
+ㄹㄴㅇ
+ㄹㅇㄴㄹ
+입력한게 다 적용된다~
+===
+|-|
+ㅇㄹㅇㄴ
+```
