@@ -118,9 +118,8 @@
     * 현재는 TCP/IP 모델을 현재는 널리 사용 <br>
 
 |-|-|-|
-|
-|![9](https://github.com/user-attachments/assets/b9423036-c000-4a15-81f2-d3bbff1f5566)
-|![10](https://github.com/user-attachments/assets/54a3a68e-c266-4f84-8aa9-dc59763dbab7)|
+|-|-|-|
+|![9](https://github.com/user-attachments/assets/b9423036-c000-4a15-81f2-d3bbff1f5566)|![10](https://github.com/user-attachments/assets/54a3a68e-c266-4f84-8aa9-dc59763dbab7)|-|
 |-|-|-|
 
 
