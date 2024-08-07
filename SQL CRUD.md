@@ -147,7 +147,8 @@ insert into testdb.tbl_user values('user20','남길동','010-555-6666'); <br>
 
 <br>
 <br>
-**갑 수정( update )** <br>
+
+**값값 수정( update )** <br>
 update tnl_user set user_name ='철수' where user_id = 'user20'; <br>
 
 | user_id | user_name | user_phone   |
@@ -157,6 +158,7 @@ update tnl_user set user_name ='철수' where user_id = 'user20'; <br>
 
 <br>
 <br>
+
 **값 삭제( delete )** <br>
 delete from tbl_user where user_id ='user10'; <br>
 
