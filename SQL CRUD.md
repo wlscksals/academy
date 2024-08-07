@@ -39,7 +39,7 @@
 * **rollback** : 트랜잭션의 작업을 **취소,원래대로 복구**
 <br>
 
-**ROLL 객체**
+**ROLL 객체** <br>
 ※ROLE 종류
 CONNECT : DB 접속 권한
 RESOURCE : 테이블이라든지 인덱스라든지 생성할 수 있는 권한
@@ -54,6 +54,7 @@ DBA : 모든 권한(관리자)
 입력: mysql -u root -p
 
 (testdb: db이름)<br>
+
 **DB 조회**  <br>
 show databases
 <br>
@@ -64,20 +65,20 @@ ues mysql
 <br>
 <br>
 
-**DB생성**
-create database testdb;
-show databases;
+**DB생성** <br>
+create database testdb; <br>
+show databases; <br>
 
 **테이블 확인**  <br>
 show tables;  <br>
 select * from user;   (user : table 이름)
-<br>
-
 
 |Tables_in_testdb|
 |-|
 |tbl_user   |
 
+<br>
+<br>
 
 **Table생성** <br>
 use testdb; <br>
@@ -95,6 +96,7 @@ mysql> desc tbl_user; (tbl_user 테이블 확인하기)
 | user_name     | varchar(45)  | NO   |     | NULL    |       |
 <br>
 <br>
+
 **컬럼 추가(alter asdd)** <br>
 alter table tbl_useradd column user_tel varchar(30) null after user_name ;
 <br>
@@ -107,6 +109,7 @@ alter table tbl_useradd column user_tel varchar(30) null after user_name ;
 | user_tel      | varchar(30)  | YES  |     | NULL    |       |
 <br>
 <br>
+
 **컬럼 삭제(alter - dorp)** <br>
 alter table tbl_user drop user_password;
 <br>
