@@ -49,8 +49,14 @@ Ubuntu에서 SSH 설정
    3) SSH 서버연결
       - ssh username@ip_address 사용자 이름 및 IP 주소를 다음 형식으로 호출 ex) ssh jjeongil@10.0.2.15
       ※ ip 주로를 모를 경우 ip a 를 입력
-   4)  NAT 지원 SSH 연결
+   4)  NAT 지원 SSH 연결? <br>
       
+
+2. putty 설치  <br>
+      ![putty](https://github.com/user-attachments/assets/5834c933-167c-485f-86cd-f1c67bf805ba)
+   1) Host Name(or IP address) 에 ip a를 입력
+   2) Saved Sessions 이름 저장
+
 
 
 
