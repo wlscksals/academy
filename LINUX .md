@@ -1,4 +1,4 @@
-# LINUX
+![image](https://github.com/user-attachments/assets/42c5786d-a235-428a-938c-6a1b0225d88a)# LINUX
 
 > ## LINUX OS 의 특징
 
@@ -97,8 +97,49 @@ cf) 경로이동에 사용되는 특수문자 <br>
   -r : 강제 복사 <br>
   -r : 디렉토리 강제복사 <br>
   -p : 보존 복사 <br>
+
+> mv <br>
+* 파일 디렉토리 이동(옵션x)
+
+<br>
+<br>
+
+> rm(remove) <br>
+
+* 파일& 디렉토리 삭제 <br>
+* 옵션 <br>
+  -f : 강제 삭제
+  -r : 디렉토리 삭제
+  -i : 질의(y/n)
+
+<br>
+<br>
+
+> find <br>
+* 파일 & 디렉토리 검색
+* 옵션
+  - name : 파일/디렉토리명 검색
+  - perm : 지정된 퍼미션 검색
+  - size : 파일 크기가 일치하는 파일 찾기
+  - type : 파일 형식 지정함 
+  - exec : 검색 결과를 해당 명령어로 실행 하는 옵션
+  <br>
+
+  - o	 : 복수 옵션 적용 <br>
+  - type : 파일 유형검색 (파일 or 디렉토리) <br>
   
+  <br>
   
+  - atime n	: n일 전에 엑세스한 파일 찾기, +n 또는 -n 형식으로도 사용가능
+  - mtime n	: n일 전에 마지막으로 수정된 파일 찾기, +n 또는 -n 형식으로도 사용가능
+  - newer	: 지정된 파일 이후 생성된 파일 찾기
+  - used n	: 변경된지 n일이 지난 모든 파일 찾기
+  - uid	: 지정된 UID를 가진 파일 검색
+  - gid	: 지정된 GID를 가진 파일 검색
+  - group	: 지정된 그룹을 가진 파일 검색
+  - user	: 지정된 소유자가 소유한 모든 파일 검색
+
+
 
 VI  설치 - 메모장 기능
 apt installl vim
