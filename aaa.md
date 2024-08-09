@@ -23,3 +23,55 @@ x(eXecute) 실행
     421 = 7 421 = 7 401 = 5 775
 
     123 => __x _w_ _wx
+
+Git 기본 명령어
+git init
+git add
+git commit -m
+
+wd : working directory, sa : staten a--
+git reset --soft : commit 취소 wd: o , sa: o
+git reset --mixed : commit 취소 wd: o , sa: x
+git reset --hard : commit 취소 wd: x, sa: x
+
+Git 병합
+git merge
+git merge --continue (충돌 해결후 fast - forward merge)
+git merge --abort
+
+Git
+git branch
+git branch [newBranch]
+git switch/chekout
+
+git - github연동
+
+git -> github
+
+git
+- git init
+- git add
+- git branch
+- git commit -m[message]
+- git remote -v
+- git remote add orgin githubRepositoy(URL)
+
+github
+- new  Repository 생성[README 생성x]
+
+  gitbub -> git
+- new  Repository 생성[README 생성o]
+
+git
+-git clone URL
+-작업
+-git push prigin
+-git pull origin
+git fetch origin
+
+
+
+
+
+
+
