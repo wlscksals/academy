@@ -83,11 +83,24 @@ IP: 192.168.10.1
 |NETWORK IP	|11000000|10101000|00001010|-|
 |HOST IP	|-|-|-|00000001|
 
+## 클래스풀
+> 클래스풀이란?
+    인터넷 상의 IP 주소를 규격화된 크기별(클래스별)로 구분시키는 방식
+> 클래스리스란?
+    Class라는 규격화된 구분없이 비트(bit) 단위별로 IP주소 범위를 가변적으로 구현
+<ㅠbr>
 
+![333760864-4ae95582-a2aa-43d6-973a-b2c65a7e4556](https://github.com/user-attachments/assets/270709f5-6d48-4286-909d-dc6eb625c61c)
+<br>
 
+> 클래스풀 정리
+![333760936-9c4b1ae1-041e-4472-bd40-669ce4cb4ba5](https://github.com/user-attachments/assets/a36b269c-8d0a-45e6-a7e5-7a121898da90)
+<hr>
+<br>
+<hr>
 
-
-
+## IPv4 통신방식
+![333760981-9a95d296-c0c3-411b-bec6-3e3569118c59](https://github.com/user-attachments/assets/e65061aa-6d60-49de-84e1-fc39ad39cda1)
 
 
 
